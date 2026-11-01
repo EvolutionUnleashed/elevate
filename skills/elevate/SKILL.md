@@ -17,11 +17,9 @@ The most common reason work feels ordinary is that it describes. It tells the re
 2. "Spend less time cooking and more time enjoying delicious food with the people you love." This describes the outcome, which is where most rewrites stop.
 3. "You've cooked all week. We've got tonight." Nothing is explained. The reader recognises the tiredness, then the relief, and finishes the thought themselves. Because they filled it in, it feels written about them.
 
-That third line uses a truth the reader shares. Room can also come from a fact only this subject can claim, stated plainly and left alone: "Our oven runs about 200 degrees hotter than the one in your kitchen." Nobody explains what that does to the crust, and the reader works out why they can't make this at home. Any pizza place could run the shared truth, while nobody else can run the fact, so when you have a fact like that (and it's true), use it.
-
 Room is for the reason to care, never for what the thing is. A reader who finishes the thought still has to know what's on offer.
 
-The same ladder runs through every medium. A web page climbs from the template, to the template restyled (most "better" passes stop there), to a page whose structure comes from how the subject actually works. A picture climbs from the stock metaphor, to the stock metaphor beautifully rendered, to an image only this idea could have produced. Each reference file shows its own ladder.
+The same ladder runs through every medium. A web page climbs from the template, to the template restyled (most "better" passes stop there), to a page whose structure comes from how the subject actually works. A picture climbs from the stock metaphor, to the stock metaphor beautifully rendered, to a picture built on the idea itself. Each reference file shows its own ladder.
 
 ## First, size the job
 
@@ -94,7 +92,7 @@ A repair uses steps 1, 2, 5 and 7. A new angle uses all of them.
 
 2. Find the default. Name the failure in one sentence, in the work's own terms: "It describes the product instead of the moment it changes", "Every slide carries the same weight", "The ask is hidden in the last paragraph". If you can't say it in a sentence, you haven't found it yet.
 
-3. Move it up. For persuasion, tell the same truth from where only this subject can stand: the fact nobody else can claim, or the moment the reader already knows. What it is and what it does still arrive, just not first. Swapping the theme while still describing is the same failure in new clothes.
+3. Move it up. For persuasion, that means getting out of the describing layer: hand the reader something they already know and let them finish the thought. What it is and what it does still arrive, just not first. Swapping the theme while still describing is the same failure in new clothes.
 
 4. Commit. Pick the one thing the piece will be remembered for and give it room. If the work has no central idea, bring one and say why it works, because work that only removes faults comes back clean and forgettable. If it already has one, push that further rather than adding a second. Then go all the way with it, since the safe, small version of a good idea is as dull as having none.
 
@@ -119,7 +117,6 @@ The road between is plain and specific, and trusts the reader to finish the thou
 ## The tests
 
 - **What-is-it.** After the first screen, slide or couple of lines, can a stranger say what this is, who it's for and what to do next? This is the floor, and nothing else counts if it fails.
-- **Swap.** Could someone else put their name on this unchanged? Could a screenshot of it pass for any other? Then it's still generic.
 - **Second guess.** Name the first "better" ideas anyone would reach for with this brief, such as a till receipt on a bookkeeper's page or a quiet still life with a coffee cup. If yours is one of them, it's the next default. Push it further or find another.
 - **Cut.** Delete each sentence that tells the reader what they already know or could work out. If the piece reads better, leave them out. If it collapses, the idea was weak and the explaining was propping it up.
 - **Stranger.** A cold reader, once, at speed. Do they get it without help? For work someone has to follow, ask instead whether a first-timer could act on it alone.
@@ -128,9 +125,9 @@ The road between is plain and specific, and trusts the reader to finish the thou
 
 ## Guardrails
 
-- Change the angle, never the facts. Keep their offer, prices, claims, names and numbers. Never invent a statistic, testimonial, client, quote, promise or result. If the work needs proof it doesn't have, say so in your note. If one of their claims is an absolute it can't back up, keep it and say what would make it safe.
-- Small claims count too. A new line in the person's own voice about what they've seen, felt or learned ("charging has made me more generous") is a claim they never made, so name it in your note for them to confirm.
-- Work that came out of a template or a model often carries placeholder proof: round-number stats, a logo strip, testimonials that could be about anyone. Those aren't facts yet. Keep what looks real, take out what looks like filler, and list both in your note so they can put back anything that was true.
+- Change the angle, never the facts. Never invent a statistic, testimonial, client, quote, promise or result.
+- Judge a claim by where it came from, never by how it looks. Anything the person wrote, supplied or confirmed is theirs, so it stays, absolutes included. Proof a model or template produced (round-number stats, a logo strip, testimonials that could be about anyone) isn't a fact yet, so it comes out. If you can't tell where a claim came from, leave it in.
+- Whatever they need to check goes at the top of your note: proof you took out, claims you couldn't place, absolutes that need backing, and any new line in their voice about what they've seen or felt.
 - Work in the piece's own language, register, spelling and typography. The tells in these files are English defaults, and formal registers stay formal.
 - Stay inside their constraints: brand rules, length limits, legal lines and the platform's format.
 - Keep the old version. Write the new one beside it, or make sure version control holds the old one, so the comparison stays possible.
@@ -141,7 +138,7 @@ The road between is plain and specific, and trusts the reader to finish the thou
 
 ## Handing it over
 
-Lead with the work. Then add one or two sentences in the work's own terms about what was failing for the reader and what changed, such as "Your three asks were buried in the last paragraph. They're in the second line now, each with its reason." or "Every slide had a topic for a title. The titles now make the argument on their own, and the detail moved into your speaker notes."
+Lead with the work. If anything needs checking, that list opens your note. Then add one or two sentences in the work's own terms about what was failing for the reader and what changed, such as "Your three asks were buried in the last paragraph. They're in the second line now, each with its reason." or "Every slide had a topic for a title. The titles now make the argument on their own, and the detail moved into your speaker notes."
 
 Keep this skill's own vocabulary out of the note (default, level, room, ditch, describing) unless they use those words themselves. Don't list the tests or the notes you checked, don't open with "Here's an elevated version", and don't reuse last round's sentence shape. Keep elevate, elevated, unlock and unleash out of the work itself, since they're the filler this skill exists to remove.
 

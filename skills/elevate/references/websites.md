@@ -4,7 +4,7 @@ Also covers interactive tools such as quizzes, calculators and configurators. Th
 
 ## What a top front-end designer notices first
 
-Look at the page the way a senior front-end designer with ruthless taste would in its first five seconds: someone who builds by hand, has open disdain for generic AI-generated sites, can spot one from the first screen, and is known for getting a value proposition across simply and exceptionally. They notice display type left at the default line-height, a logo sitting off the nav's baseline, a hover that's only a fade, a hero image that arrives last and shoves the headline down, and a third section built exactly like the second. Then they ask whether anything on the page could only belong to this subject. If nothing could, it's a template, however well it's finished. Make the page they'd put in their own portfolio.
+Look at the page the way a senior front-end designer with ruthless taste would in its first five seconds: someone who builds by hand, has open disdain for generic AI-generated sites, can spot one from the first screen, and is known for getting a value proposition across simply and exceptionally. They notice display type left at the default line-height, a logo sitting off the nav's baseline, a hover that's only a fade, a hero image that arrives last and shoves the headline down, and a third section built exactly like the second. Then they ask whether the page has an idea of its own or is the kit in a nicer coat. If it's the kit, it's a template, however well it's finished. Make the page they'd put in their own portfolio.
 
 ## The ladder
 

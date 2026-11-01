@@ -10,7 +10,7 @@ Whether the picture is the first metaphor anyone would reach for. Whether it agr
 
 1. The stock metaphor: a lightbulb for an idea, a rocket for a launch.
 2. The stock metaphor beautifully rendered, which is where most "better" prompts stop.
-3. An image only this idea could have produced, committed to all the way.
+3. A picture built on the idea itself, committed to all the way.
 
 ## Commit to the idea
 

@@ -4,13 +4,15 @@ Short copy carries the most weight, and it's where describing does the most dama
 
 ## What a naming strategist notices first
 
-Whether the line lands in one second for a busy stranger. Whether it could front a competitor's page unchanged. Whether it needs a sentence of explanation to work, and whether it says what the thing does when it should say why anyone would care.
+Whether the line lands in one second for a busy stranger. Whether it's the first line anyone would write. Whether it needs a sentence of explanation to work, and whether it says what the thing does when it should say why anyone would care.
 
 ## Headlines
 
 A headline says one specific thing, at whatever length that takes. On a site's first screen that's usually short: a few words carrying a stance or a feeling. The compressed benefit slogan ("Work, simplified." "Ship faster.") is today's default, so a short line needs a point of view to beat it, and a longer line built on one specific fact can beat any short one.
 
-Don't describe what the thing does in the headline. "The all-in-one platform for managing your projects" fails because every competitor could run it. Describe only what nobody else could say.
+Don't describe what the thing does in the headline. "The all-in-one platform for managing your projects" is a label, and nobody stops scrolling for a label.
+
+When visitors arrive from a search or an ad, the headline or the line under it uses the words they searched, so they know straight away they've landed in the right place.
 
 The line under the headline makes it plain what this is and who it's for, at the reader's level (what it does for them, not how it works), in new words. It never repeats the headline's key word.
 
@@ -24,7 +26,7 @@ Sell the shift. The top line is the new way things work for the reader, never th
 
 ## Taglines
 
-A tagline adds a feeling or a stance the name can't carry. It doesn't explain the product, and a quality claim ("Work you can be proud of") is a tagline anyone could own.
+A tagline adds a feeling or a stance the name can't carry. It doesn't explain the product, and a quality claim ("Work you can be proud of") gives the reader nothing to feel.
 
 Start from the person's own words if they've given you any. If they hand you a short version of a line, use it as given, and don't grow it back into the sentence it was cut from.
 

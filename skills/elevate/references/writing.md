@@ -14,12 +14,11 @@ AI describes. Whatever you point it at, it explains the features, then the benef
 
 1. Describing the thing: "Our wood-fired pizzas combine fresh ingredients with hand-stretched dough for an authentic Italian experience."
 2. Describing the outcome: "Spend less time cooking and more time enjoying delicious food with the people you love."
-3. Leaving room with a shared truth: "You've cooked all week. We've got tonight."
-4. Leaving room with a fact only this subject can claim: "Our oven runs about 200 degrees hotter than the one in your kitchen." (Only if it's true.)
+3. Leaving room: "You've cooked all week. We've got tonight."
 
-The third line never says you're tired or that you've earned a night off. The reader recognises the tiredness, then the relief, and supplies their own reasons. Because they filled it in, it feels written about them. The fourth explains nothing either, and the reader works out why they can't make this at home. Both leave room. The fourth also passes the swap test, because no other pizza place can run it, so when you have a fact like that, use it.
+The third line never says you're tired or that you've earned a night off. The reader recognises the tiredness, then the relief, and supplies their own reasons. Because they filled it in, it feels written about them.
 
-A shared-truth line only works if nearly everyone in the audience has lived it. If it fits only some of them, it's an assumption about their lives, and the rest stop reading.
+A line like that only works if nearly everyone in the audience has lived it. If it fits only some of them, it's an assumption about their lives, and the rest stop reading.
 
 ### Find this piece's own shape
 
