@@ -1,0 +1,88 @@
+# Elevate
+
+**"Make it better" finally works.**
+
+You've typed "make it better" more times than you'd like to admit. And it keeps coming back longer, with more adjectives and a gradient nobody asked for. What it doesn't find is the thing that was actually wrong.
+
+Elevate finds it. It's a skill that shows your AI what "better" means for writing, design, slides, images and documents. One vague request gets you the fix you meant.
+
+![The same landing page before and after one round of Elevate](assets/before-after.png)
+
+<p align="center"><sub>Same page, one round of Elevate.</sub></p>
+
+## Get it
+
+**Claude app.** [Download elevate.zip](https://github.com/EvolutionUnleashed/elevate/releases/latest/download/elevate.zip), then open Customize > Skills, choose Upload a skill and pick the file. No code needed. If your menu looks different, [here's Anthropic's guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
+
+**Claude Code.**
+
+```
+/plugin marketplace add EvolutionUnleashed/elevate
+/plugin install elevate@elevate
+```
+
+**Codex, Cursor, Copilot, Gemini CLI and 40+ other agents.**
+
+```
+npx skills add EvolutionUnleashed/elevate
+```
+
+## Then say it
+
+"Make it better." "This is meh." "Make it pop." "Reads like AI." "6/10."
+
+That's the whole interface.
+
+## Three lines
+
+> Our wood-fired pizzas combine fresh ingredients with hand-stretched dough for an authentic Italian experience.
+
+> Spend less time cooking and more time enjoying delicious food with the people you love.
+
+> You've cooked all week. We've got tonight.
+
+The first describes the pizza. The second describes the outcome, and that's where most "better" rewrites stop. The third leaves room, so the reader finishes the thought with their own reasons and feels it was written about them.
+
+Elevate writes the third line. It makes the same move on a page: up there, "Seamless Bookkeeping" became one night's takings, reconciled to 0.00.
+
+## What's different
+
+Deleting AI's favourite words leaves you a tidier version of the same problem. Elevate goes after the problem.
+
+**It knows what "meh" means.** "Boring", "cringe", "make it pop" and "more premium" are four different problems, and Elevate fixes each one differently.
+
+**It sizes the fix.** Work that's nearly there gets a light repair that keeps everything you liked. Work that isn't landing gets a new angle.
+
+**It won't trade AI slop for anti-AI slop.** No riddles or one-word fragments, and no cleverness you have to read twice.
+
+**It keeps your voice and your facts.** Your own writing comes back sounding like you, and nothing gets invented to look impressive.
+
+## More before and after
+
+A newsletter that was nearly there ("close, maybe 8/10"). Elevate cut four lines and touched nothing else:
+
+> Here's what surprised me. Everyone else just paid. Two people said it was about time, which means I'd been undercharging them for longer than I want to admit, and that's the real lesson here.
+
+> Everyone else just paid. Two people said it was about time.
+
+A LinkedIn opener:
+
+> I stopped doing free discovery calls. Here's why. 🚫📞
+
+> You can usually see what's wrong long before a discovery call ends, and then you have to decide whether to say so.
+
+An image prompt for a post about not answering email straight away:
+
+> A glowing holographic AI assistant with charts and graphs floating around, a robot hand, vibrant blue and purple neon colors, 8k, trending on artstation.
+
+> A small, bright waiting room where every seat is taken by an envelope. One of them has tipped onto its neighbour as if it has nodded off.
+
+## It bans its own name
+
+"Elevate" sits on the skill's list of AI filler, alongside "delve" and "unlock". [Here's the whole list.](skills/elevate/references/writing.md#the-tells)
+
+If Elevate saves you a round of "make it better", star the repo, or send it to whoever keeps saying it to you.
+
+---
+
+Created by Stu Jordan, founder of Evolution Unleashed, a community of 65,000 people putting AI to work. [AgentGuru](https://agentguru.ai/?utm_source=github&utm_medium=readme&utm_campaign=elevate) · [MIT license](LICENSE)

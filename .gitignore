@@ -1,0 +1,8 @@
+# Private working files: test runs, review pages and build output stay local
+elevate-workspace/
+dist/
+OPEN ME - Elevate.html
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

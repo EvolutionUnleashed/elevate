@@ -1,0 +1,13 @@
+{
+  "name": "elevate",
+  "description": "\"Make it better\" finally works. A skill that shows your AI what better means for writing, design, slides, images and documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stu Jordan",
+    "url": "https://agentguru.ai"
+  },
+  "homepage": "https://github.com/EvolutionUnleashed/elevate",
+  "repository": "https://github.com/EvolutionUnleashed/elevate",
+  "license": "MIT",
+  "keywords": ["writing", "copywriting", "design", "web-design", "slides", "image-prompts", "ai-slop", "skills"]
+}
