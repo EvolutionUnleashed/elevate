@@ -12,9 +12,9 @@ No more going round in circles. You get back the version you had in your head an
 
 There's nothing new to learn and no style guide to write. You don't even have to say what's wrong. That's Elevate's job.
 
-![The same landing page before and after one round of Elevate](assets/before-after.png)
+![Before and after: an AI class page that became meetpea.com, and a business homepage that became Look, no hands](assets/before-after.png)
 
-<p align="center"><sub>Same page, one round of Elevate.</sub></p>
+<p align="center"><sub>Two real homepages, before and after. That's the kind of jump Elevate is built for.</sub></p>
 
 ## What's inside
 
