@@ -66,6 +66,8 @@ An image prompt for a post about not answering email straight away:
 
 It's free.
 
+**Manus.** Open Skills > + Add > Import from GitHub, paste `https://github.com/EvolutionUnleashed/elevate`, then click Import.
+
 **Claude app.** [Download elevate.zip](https://github.com/EvolutionUnleashed/elevate/releases/latest/download/elevate.zip), then open Customize > Skills, choose Upload a skill and pick the file. No code needed. If your menu looks different, [here's Anthropic's guide](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 **Claude Code.**
